@@ -56,6 +56,10 @@
       width: 75%;
       padding: 10px;
       .tab-pane {
+        .responsive-iframe{
+          width: 100%;
+          height: 1200px;
+        }
         h2 {
           font-size: 24px;
           font-weight: bold;

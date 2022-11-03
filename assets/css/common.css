@@ -74,4 +74,13 @@
   #Footer .footer-left ul li a:first-child {
     width: 100%;
   }
+}
+@media screen and (max-width: 600px) {
+  #Header .header-wrapper .logo img {
+    width: 100%;
+  }
+  #Header .header-wrapper .site-head {
+    padding-top: 10px;
+    font-size: 18px;
+  }
 }/*# sourceMappingURL=common.css.map */

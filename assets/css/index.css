@@ -118,4 +118,14 @@
   #Content .tab .tab-content {
     width: 100%;
   }
+}
+@media screen and (max-width: 600px) {
+  #Content .tab .nav {
+    justify-content: center;
+    gap: 10px;
+  }
+  #Content .tab .nav .nav-link {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 }/*# sourceMappingURL=index.css.map */

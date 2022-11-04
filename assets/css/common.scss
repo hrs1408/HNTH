@@ -92,3 +92,19 @@
     }
   }
 }
+
+@media screen and (max-width: 600px) {
+  #Header {
+    .header-wrapper {
+      .logo {
+        img {
+          width: 100%;
+        }
+      }
+      .site-head{
+        padding-top: 10px;
+        font-size: 18px;
+      }
+    }
+  }
+}
